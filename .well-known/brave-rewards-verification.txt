@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: else.club
+Token: 814892a54b2de10b2bdabf39eefa572b8ad3d3d666aafa0a933e7330b7c6d712
